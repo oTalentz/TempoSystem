@@ -1,0 +1,7 @@
+name: TempoSystem
+version: 1.0
+main: br.com.master.temposystem.Main
+commands:
+  tempo:
+    description: Mostra o tempo online do jogador.
+    usage: /tempo

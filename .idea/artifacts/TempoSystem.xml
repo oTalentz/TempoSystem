@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TempoSystem">
+    <output-path>$USER_HOME$/Downloads</output-path>
+    <root id="archive" name="TempoSystem.jar">
+      <element id="module-output" name="TempoSystem" />
+    </root>
+  </artifact>
+</component>
